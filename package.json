@@ -1,17 +1,17 @@
 {
-	"name": "lexus",
-	"displayName": "Lexus Theme",
+	"name": "moka",
+	"displayName": "Moka",
 	"description": "dark theme",
 	"version": "1.4.0",
-	"publisher": "yoko-luxelego",
+	"publisher": "yojeero",
 	"engines": {
 		"vscode": "^1.91.1"
 	},
 	"icon": "icon.png",
-	"homepage": "https://github.com/yojeero/lexus_vscode/README.md",
+	"homepage": "https://github.com/yojeero/moka_vscode/",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/yojeero/lexus_vscode"
+		"url": "https://github.com/yojeero/moka_vscode/"
 	},
 	"categories": [
 		"Themes"
@@ -19,9 +19,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Lexus",
+				"label": "Moka",
 				"uiTheme": "vs-dark",
-				"path": "./themes/lexus-color-theme.json"
+				"path": "./themes/moka-color-theme.json"
 			}
 		]
 	}
