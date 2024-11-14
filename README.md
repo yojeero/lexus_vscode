@@ -1,15 +1,15 @@
-<img width="830px" src="img/yojee.svg">
+<img width="830px" src="img/lexus.png">
 
- ### Lexus theme [Live](https://vscodethemes.com/e/yoko-luxelego.yojee/yojee?language=javascript) preview.
+ ### Lexus theme [Live](https://) preview.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
-### Install using VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.yojee)
+### Install using VSCode [Marketplace](https://)
 
 1. Enter VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.yojee)
 2. Search for `Lexus Theme`
 
-You can easily install the **Yojee Theme** by using the **Command Palette**:
+You can easily install the **Lexus Theme** by using the **Command Palette**:
 
 1. Go to View -> `Command Palette`
 2. Enter `Install Extension`

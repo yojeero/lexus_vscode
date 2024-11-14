@@ -1,7 +1,7 @@
 {
-	"name": "yojee",
+	"name": "lexus",
 	"displayName": "Lexus Theme",
-	"description": "dark theme for VSCode",
+	"description": "dark theme",
 	"version": "1.4.0",
 	"publisher": "Yojee",
 	"engines": {
@@ -19,9 +19,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Yojee",
+				"label": "Lexus",
 				"uiTheme": "vs-dark",
-				"path": "./themes/yojee-color-theme.json"
+				"path": "./themes/lexus-color-theme.json"
 			}
 		]
 	}
