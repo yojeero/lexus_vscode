@@ -3,7 +3,7 @@
 	"displayName": "Lexus Theme",
 	"description": "dark theme",
 	"version": "1.4.0",
-	"publisher": "Yojee",
+	"publisher": "yoko-luxelego",
 	"engines": {
 		"vscode": "^1.91.1"
 	},
